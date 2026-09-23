@@ -1,0 +1,4 @@
+1|Python Basics|Guido Rossum|Available
+2|Data Science|Jake VanderPlas|Available
+3|x|6|Available
+9|Test Book|Author|Available

@@ -1,0 +1,4 @@
+E01,Ravi,IT,55000
+E02,Sneha,HR,42000
+E03,Karan,Finance,67000
+E04,Anita,IT,48000
